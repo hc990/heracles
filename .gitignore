@@ -1,0 +1,10 @@
+**/target/
+**/.classpath
+**/.project
+**/.settings/
+**/*.iml
+**/*.gz
+**/*.csv
+*.csv
+*.gz
+**/src/
