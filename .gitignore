@@ -8,3 +8,6 @@
 *.csv
 *.gz
 **/src/
+.env
+.DS_Store
+
